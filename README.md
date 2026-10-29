@@ -50,3 +50,4 @@ Animated three skill bars to different widths and back to zero.
 
 ## Work process
 First I made the HTML page, then added basic CSS and jQuery events.# web6
+# web6
